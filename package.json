@@ -1,0 +1,17 @@
+{
+  "name": "confbkup",
+  "version": "1.0.0",
+  "description": "Read a list of conf file in Linux and backup them in a single directory.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KAMEDA Akihiro",
+  "license": "MIT",
+  "dependencies": {
+    "diff": "^3.5.0",
+    "promise": "^8.0.1",
+    "terminal-kit": "^1.15.1"
+  }
+}
