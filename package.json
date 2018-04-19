@@ -1,7 +1,7 @@
 {
   "name": "confbkup",
   "version": "1.0.0",
-  "description": "Read a list of conf file in Linux and backup them in a single directory.",
+  "description": "Read a list of conf files in Linux and backup them in a single directory.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
